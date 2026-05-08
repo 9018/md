@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iStoreNextD_公网端口排查与nftables加固记录.md",
+                "file": "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "65faa13e62e7ae6c",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
+                "file": "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录 的出链列表"
+              "title": "iStoreNextD_公网端口排查与nftables加固记录 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
+                "file": "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录 的大纲"
+              "title": "iStoreNextD_公网端口排查与nftables加固记录 的大纲"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8fc2b2d20056733",
+  "active": "495a3fd69537d3a9",
   "lastOpenFiles": [
+    "debian相关/Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
+    "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
+    "debian相关",
     "未命名.md",
-    "iStoreNextD_公网端口排查与nftables加固记录.md",
-    "Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
     "未命名.canvas",
     "未命名.base",
     "创建链接.md"
