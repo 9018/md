@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "WireGuard + v2rayA TUN + Docker + 小火箭 完整稳定方案"
             }
+          },
+          {
+            "id": "ca3080ef08b2b62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "debian相关/netbird_v2raya_docker_full_guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "netbird_v2raya_docker_full_guide"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,13 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5568c2e9380aa971",
+  "active": "ca3080ef08b2b62e",
   "lastOpenFiles": [
     "debian相关/WireGuard + wg-easy + v2rayA TUN 全局代理完整教程.md",
-    "debian相关/WireGuard + v2rayA TUN + Docker + 小火箭 完整稳定方案.md",
-    "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
-    "debian相关/iStoreNextD_QoS流量控制记录.md",
+    "debian相关/netbird_v2raya_docker_full_guide.md",
     "debian相关/Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
+    "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
+    "debian相关/WireGuard + v2rayA TUN + Docker + 小火箭 完整稳定方案.md",
+    "debian相关/v2raya-netbird-ios-routing-guide.md",
+    "debian相关/iStoreNextD_QoS流量控制记录.md",
+    "未命名.md",
     "debian相关",
     "未命名.canvas",
     "未命名.base",
