@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 270.5
   },
   "right": {
     "id": "65faa13e62e7ae6c",
@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3080ef08b2b62e",
+  "active": "ef67cd4e42617ace",
   "lastOpenFiles": [
     "debian相关/netbird_v2raya_docker_full_guide.md",
     "debian相关/seafile-onlyoffice-integration-fix.md",
