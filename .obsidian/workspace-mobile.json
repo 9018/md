@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "46b18a7b38e4fbd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce534eb7cba9aa14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4494bebbe5d4489b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "226ce21ea81edf87",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a9bb0bf77705e08c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "094637d035e4ac42",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "3a1ce610a6472ff5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "e396a004f9fe9a51",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "79d61493d6edc470",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ec1761322cd6551a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ba943ac86780c74",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "88d972c09c3d2132",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "a9364508cdcb49b2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4494bebbe5d4489b",
+  "lastOpenFiles": [
+    "未命名(wei ming ming).md",
+    "debian相关/seafile-onlyoffice-integration-fix.md",
+    "debian相关/WireGuard + v2rayA TUN + Docker + 小火箭 完整稳定方案.md",
+    "debian相关/Debian 出口机 Hairpin NAT（NAT 回流）问题排查记录.md",
+    "debian相关/iStoreNextD_公网端口排查与nftables加固记录.md",
+    "debian相关/WireGuard + wg-easy + v2rayA TUN 全局代理完整教程.md",
+    "debian相关/netbird_v2raya_docker_full_guide.md",
+    "debian相关/iStoreNextD_QoS流量控制记录.md",
+    "debian相关/v2raya-netbird-ios-routing-guide.md",
+    "debian相关"
+  ]
+}
